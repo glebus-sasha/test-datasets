@@ -1,4 +1,0 @@
-sample,fastq_1,fastq_2,strandedness,phenotype,experiment_accession
-R_38_S52,/home/aglebus/projects/endocrincentr-o2t/test_data/reads/R_38_S52_R1_001_1Mlines.fastq.gz,/home/aglebus/projects/endocrincentr-o2t/test_data/reads/R_38_S52_R2_001_1Mlines.fastq.gz,auto,control,R_38_S52
-R_39_S56,/home/aglebus/projects/endocrincentr-o2t/test_data/reads/R_39_S56_R1_001_1Mlines.fastq.gz,/home/aglebus/projects/endocrincentr-o2t/test_data/reads/R_39_S56_R2_001_1Mlines.fastq.gz,auto,treated,R_39_S56
-R_40_S49,/home/aglebus/projects/endocrincentr-o2t/test_data/reads/R_40_S49_R1_001_1Mlines.fastq.gz,/home/aglebus/projects/endocrincentr-o2t/test_data/reads/R_40_S49_R2_001_1Mlines.fastq.gz,auto,treated,R_40_S49
