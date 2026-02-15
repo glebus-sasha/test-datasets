@@ -1,0 +1,3 @@
+panel,chr,vcf,index
+test_panel_1_1000,chr27,/mnt/raid/aglebus/glebus-sasha-imputelp/test_data/panel/Chr27-Run8-TAUIND-train_1_1000.vcf.gz,/mnt/raid/aglebus/glebus-sasha-imputelp/test_data/panel/Chr27-Run8-TAUIND-train_1_1000.vcf.gz.tbi
+test_panel_1_1000,chr28,/mnt/raid/aglebus/glebus-sasha-imputelp/test_data/panel/Chr28-Run8-TAUIND-train_1_1000.vcf.gz,/mnt/raid/aglebus/glebus-sasha-imputelp/test_data/panel/Chr28-Run8-TAUIND-train_1_1000.vcf.gz.tbi
