@@ -1,6 +1,6 @@
 sample,fastq_1,fastq_2
-SSP_1378_BB254867491,/mnt/raid/aglebus/glebus-sasha-imputelp/test_data/reads/SSP_1378_WGS_BB254867491_R1_M.fq.gz,/mnt/raid/aglebus/glebus-sasha-imputelp/test_data/reads/SSP_1378_WGS_BB254867491_R2_M.fq.gz
-SSP_1378_BB254867501,/mnt/raid/aglebus/glebus-sasha-imputelp/test_data/reads/SSP_1378_WGS_BB254867501_R1_M.fq.gz,/mnt/raid/aglebus/glebus-sasha-imputelp/test_data/reads/SSP_1378_WGS_BB254867501_R2_M.fq.gz
-SSP_1378_BB254867511,/mnt/raid/aglebus/glebus-sasha-imputelp/test_data/reads/SSP_1378_WGS_BB254867511_R1_M.fq.gz,/mnt/raid/aglebus/glebus-sasha-imputelp/test_data/reads/SSP_1378_WGS_BB254867511_R2_M.fq.gz
-SSP_1378_BB254867521,/mnt/raid/aglebus/glebus-sasha-imputelp/test_data/reads/SSP_1378_WGS_BB254867521_R1_M.fq.gz,/mnt/raid/aglebus/glebus-sasha-imputelp/test_data/reads/SSP_1378_WGS_BB254867521_R2_M.fq.gz
-SSP_1378_BB254867531,/mnt/raid/aglebus/glebus-sasha-imputelp/test_data/reads/SSP_1378_WGS_BB254867531_R1_M.fq.gz,/mnt/raid/aglebus/glebus-sasha-imputelp/test_data/reads/SSP_1378_WGS_BB254867531_R2_M.fq.gz
+SSP_1378_BB254867491,https://github.com/glebus-sasha/test-datasets/raw/refs/heads/imputelp/test_data/reads/SSP_1378_WGS_BB254867491_R1_M.fq.gz,https://github.com/glebus-sasha/test-datasets/raw/refs/heads/imputelp/test_data/reads/SSP_1378_WGS_BB254867491_R2_M.fq.gz
+SSP_1378_BB254867501,https://github.com/glebus-sasha/test-datasets/raw/refs/heads/imputelp/test_data/reads/SSP_1378_WGS_BB254867501_R1_M.fq.gz,https://github.com/glebus-sasha/test-datasets/raw/refs/heads/imputelp/test_data/reads/SSP_1378_WGS_BB254867501_R2_M.fq.gz
+SSP_1378_BB254867511,https://github.com/glebus-sasha/test-datasets/raw/refs/heads/imputelp/test_data/reads/SSP_1378_WGS_BB254867511_R1_M.fq.gz,https://github.com/glebus-sasha/test-datasets/raw/refs/heads/imputelp/test_data/reads/SSP_1378_WGS_BB254867511_R2_M.fq.gz
+SSP_1378_BB254867521,https://github.com/glebus-sasha/test-datasets/raw/refs/heads/imputelp/test_data/reads/SSP_1378_WGS_BB254867521_R1_M.fq.gz,https://github.com/glebus-sasha/test-datasets/raw/refs/heads/imputelp/test_data/reads/SSP_1378_WGS_BB254867521_R2_M.fq.gz
+SSP_1378_BB254867531,https://github.com/glebus-sasha/test-datasets/raw/refs/heads/imputelp/test_data/reads/SSP_1378_WGS_BB254867531_R1_M.fq.gz,https://github.com/glebus-sasha/test-datasets/raw/refs/heads/imputelp/test_data/reads/SSP_1378_WGS_BB254867531_R2_M.fq.gz
