@@ -1,7 +1,7 @@
 sample,fastq_1,fastq_2,phenotype
-R_38_S52,/home/aglebus/projects/test-datasets/test_data/reads/R_38_S52_R1_001_1Mlines.fastq.gz,/home/aglebus/projects/test-datasets/test_data/reads/R_38_S52_R2_001_1Mlines.fastq.gz,control
-R_38_S52_rep2,/home/aglebus/projects/test-datasets/test_data/reads/R_38_S52_R1_001_1Mlines_rep2.fastq.gz,/home/aglebus/projects/test-datasets/test_data/reads/R_38_S52_R2_001_1Mlines_rep2.fastq.gz,control
-R_39_S56,/home/aglebus/projects/test-datasets/test_data/reads/R_39_S56_R1_001_1Mlines.fastq.gz,/home/aglebus/projects/test-datasets/test_data/reads/R_39_S56_R2_001_1Mlines.fastq.gz,disease_1
-R_39_S56_rep2,/home/aglebus/projects/test-datasets/test_data/reads/R_39_S56_R1_001_1Mlines_rep2.fastq.gz,/home/aglebus/projects/test-datasets/test_data/reads/R_39_S56_R2_001_1Mlines_rep2.fastq.gz,disease_1
-R_40_S49,/home/aglebus/projects/test-datasets/test_data/reads/R_40_S49_R1_001_1Mlines.fastq.gz,/home/aglebus/projects/test-datasets/test_data/reads/R_40_S49_R2_001_1Mlines.fastq.gz,disease_2
-R_40_S49_rep2,/home/aglebus/projects/test-datasets/test_data/reads/R_40_S49_R1_001_1Mlines_rep2.fastq.gz,/home/aglebus/projects/test-datasets/test_data/reads/R_40_S49_R2_001_1Mlines_rep2.fastq.gz,disease_2
+R_38_S52,https://github.com/glebus-sasha/test-datasets/raw/refs/heads/o2t/test_data/reads/R_38_S52_R1_001_1Mlines.fastq.gz,https://github.com/glebus-sasha/test-datasets/raw/refs/heads/o2t/test_data/reads/R_38_S52_R2_001_1Mlines.fastq.gz,control
+R_38_S52_rep2,https://github.com/glebus-sasha/test-datasets/raw/refs/heads/o2t/test_data/reads/R_38_S52_R1_001_1Mlines_rep2.fastq.gz,https://github.com/glebus-sasha/test-datasets/raw/refs/heads/o2t/test_data/reads/R_38_S52_R2_001_1Mlines_rep2.fastq.gz,control
+R_39_S56,https://github.com/glebus-sasha/test-datasets/raw/refs/heads/o2t/test_data/reads/R_39_S56_R1_001_1Mlines.fastq.gz,https://github.com/glebus-sasha/test-datasets/raw/refs/heads/o2t/test_data/reads/R_39_S56_R2_001_1Mlines.fastq.gz,disease_1
+R_39_S56_rep2,https://github.com/glebus-sasha/test-datasets/raw/refs/heads/o2t/test_data/reads/R_39_S56_R1_001_1Mlines_rep2.fastq.gz,https://github.com/glebus-sasha/test-datasets/raw/refs/heads/o2t/test_data/reads/R_39_S56_R2_001_1Mlines_rep2.fastq.gz,disease_1
+R_40_S49,https://github.com/glebus-sasha/test-datasets/raw/refs/heads/o2t/test_data/reads/R_40_S49_R1_001_1Mlines.fastq.gz,https://github.com/glebus-sasha/test-datasets/raw/refs/heads/o2t/test_data/reads/R_40_S49_R2_001_1Mlines.fastq.gz,disease_2
+R_40_S49_rep2,https://github.com/glebus-sasha/test-datasets/raw/refs/heads/o2t/test_data/reads/R_40_S49_R1_001_1Mlines_rep2.fastq.gz,https://github.com/glebus-sasha/test-datasets/raw/refs/heads/o2t/test_data/reads/R_40_S49_R2_001_1Mlines_rep2.fastq.gz,disease_2
