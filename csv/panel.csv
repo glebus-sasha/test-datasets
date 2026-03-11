@@ -1,3 +1,5 @@
 panel,chr,vcf,index
-test_panel_1_1000,chr27,https://github.com/glebus-sasha/test-datasets/raw/refs/heads/imputelp/test_data/panel/test_chr27_0_100000.vcf.gz,https://github.com/glebus-sasha/test-datasets/raw/refs/heads/imputelp/test_data/panel/test_chr27_0_100000.vcf.gz.tbi
-test_panel_1_1000,chr28,https://github.com/glebus-sasha/test-datasets/raw/refs/heads/imputelp/test_data/panel/test_chr28_0_100000.vcf.gz,https://github.com/glebus-sasha/test-datasets/raw/refs/heads/imputelp/test_data/panel/test_chr28_0_100000.vcf.gz.tbi
+panelA,chr27,https://github.com/glebus-sasha/test-datasets/raw/refs/heads/imputelp/test_data/panel/panelA_chr27_0_100000.vcf.gz,https://github.com/glebus-sasha/test-datasets/raw/refs/heads/imputelp/test_data/panel/panelA_chr27_0_100000.vcf.gz.csi
+panelA,chr28,https://github.com/glebus-sasha/test-datasets/raw/refs/heads/imputelp/test_data/panel/panelA_chr28_0_100000.vcf.gz,https://github.com/glebus-sasha/test-datasets/raw/refs/heads/imputelp/test_data/panel/panelA_chr28_0_100000.vcf.gz.tbi
+panelB,chr27,https://github.com/glebus-sasha/test-datasets/raw/refs/heads/imputelp/test_data/panel/panelB_chr27_0_100000.vcf.gz,https://github.com/glebus-sasha/test-datasets/raw/refs/heads/imputelp/test_data/panel/panelB_chr27_0_100000.vcf.gz.csi
+panelB,chr28,https://github.com/glebus-sasha/test-datasets/raw/refs/heads/imputelp/test_data/panel/panelB_chr28_0_100000.vcf.gz,https://github.com/glebus-sasha/test-datasets/raw/refs/heads/imputelp/test_data/panel/panelB_chr28_0_100000.vcf.gz.tbi
