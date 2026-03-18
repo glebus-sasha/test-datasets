@@ -1,4 +1,3 @@
 panel,chr,vcf,index
 panelA,chr27,https://github.com/glebus-sasha/test-datasets/raw/refs/heads/imputelp/test_data/panel/panelA_chr27_0_100000.vcf.gz,https://github.com/glebus-sasha/test-datasets/raw/refs/heads/imputelp/test_data/panel/panelA_chr27_0_100000.vcf.gz.csi
-panelA,chr28,https://github.com/glebus-sasha/test-datasets/raw/refs/heads/imputelp/test_data/panel/panelA_chr28_0_100000.vcf.gz,https://github.com/glebus-sasha/test-datasets/raw/refs/heads/imputelp/test_data/panel/panelA_chr28_0_100000.vcf.gz.tbi
 panelB,chr27,https://github.com/glebus-sasha/test-datasets/raw/refs/heads/imputelp/test_data/panel/panelB_chr27_0_100000.vcf.gz,https://github.com/glebus-sasha/test-datasets/raw/refs/heads/imputelp/test_data/panel/panelB_chr27_0_100000.vcf.gz.csi
